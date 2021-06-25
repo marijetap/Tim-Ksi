@@ -13,3 +13,5 @@ Pokemon.ipynb je Python bilježnica koja sadrži glavni dio našeg projekta odno
 Pokemon.gif je gif u kojem je prikazano kako generator generira slike od 16 različitih šumova kroz epohe
 
 Bulbasaur.gif je gif u kojemu je prikazano kako generator generira sliku iz šuma kroz epohe, gdje su u datasetu samo slike Bulbasaura
+
+Pokemon.pdf je naše završno izvješće o projektu.
