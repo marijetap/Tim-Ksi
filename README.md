@@ -15,3 +15,5 @@ Pokemon.gif je gif u kojem je prikazano kako generator generira slike od 16 razl
 Bulbasaur.gif je gif u kojemu je prikazano kako generator generira sliku iz šuma kroz epohe, gdje su u datasetu samo slike Bulbasaura.
 
 Pokemon.pdf je naše završno izvješće o projektu.
+
+U direktoriju Generirani_Pokemoni nalaze se neki od najboljih rezultata.
