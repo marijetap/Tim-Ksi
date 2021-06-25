@@ -10,8 +10,8 @@ Projektni_prijedlog.ipynb je Python bilježnica koja sadrži eksploratornu anali
 
 Pokemon.ipynb je Python bilježnica koja sadrži glavni dio našeg projekta odnosno izvorni kod zajedno s rezultatima i istreniranim modelima.
 
-Pokemon.gif je gif u kojem je prikazano kako generator generira slike od 16 različitih šumova kroz epohe
+Pokemon.gif je gif u kojem je prikazano kako generator generira slike od 16 različitih šumova kroz epohe.
 
-Bulbasaur.gif je gif u kojemu je prikazano kako generator generira sliku iz šuma kroz epohe, gdje su u datasetu samo slike Bulbasaura
+Bulbasaur.gif je gif u kojemu je prikazano kako generator generira sliku iz šuma kroz epohe, gdje su u datasetu samo slike Bulbasaura.
 
 Pokemon.pdf je naše završno izvješće o projektu.
